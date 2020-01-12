@@ -1,0 +1,64 @@
+=> installation
+
+    (Systemwide Install or User Install?)
+        - **save answer for later installation process
+
+    - parse system profile & bashrc, profile
+        - look for known shimmers
+            - query system for known shimmer's version numbers
+        - look for unknown shimming activity
+            - queue list for user approval to catalog and bank them
+        - backup all current setting files (.profile, .bashrc. etc.)
+
+    (Terminal Illness can be installed in one of two ways:
+        Please select your preferred installation method:
+            1) Manually remove all shimmers and re-install them using Terminal Illness
+            2) Sit back and let Terminal Illness handle everything
+
+        [1]
+            - display list of all detected shimmers
+            - display list of all unknown shimming activity
+            (Please backup your settings and uninstall each item, then restart TI)
+
+           ** GOTO 'installation[1]' for post re-start logic
+
+        [2]
+
+
+
+=> installation[1]
+
+    - parse everything again, ensure there are no more shimmers or shim-like activity
+
+        IF THERE ARE:
+            - inform the user and ask if they'd like to either:
+                1) try again, and get all the stragglers
+                2) let TI handle it
+
+        IF THE SYSTEM IS CLEAN:
+            - begin installing the package
+                - if system install; may require a restart since - deep-ish
+                - if user install; just messing with their personal profile & bashrc
+
+            - TI is going to actually shim the bash command itself
+
+            ** go to installation[3]
+
+=> installation[2]
+
+
+
+
+
+=> installation[3]
+
+    -
+
+
+
+
+
+MAIN POINTS:
+- Be able to compartmentalize & specialize shimmed environments
+    (regulated with .tirc/
+- be able to quickly call up each environment by opening a new terminal window / tab

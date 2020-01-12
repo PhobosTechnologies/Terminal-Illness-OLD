@@ -1,4 +1,3 @@
-
 Bash Features
 1 Introduction
   1.1 What is Bash?
@@ -11186,4 +11185,3 @@ D.5 Concept Index
 * word splitting:                        Word Splitting.     (line 1991)
 * yanking text:                          Readline Killing Commands.
                                                              (line 6910)
-

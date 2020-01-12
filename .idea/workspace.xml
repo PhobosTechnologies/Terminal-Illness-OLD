@@ -2,31 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32b2884f-45be-4272-91dc-7a9953c168ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Terminal_Illness.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEVELOPMENT_/CHECKLIST" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEVELOPMENT_/JUPYTER_NOTEBOOKS/decorators.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEVELOPMENT_/NOTES_AND_RESEARCH/bash_v5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEVELOPMENT_/terminal_illness.pseudo_coded" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/install.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/terminal_illness/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/terminal_illness/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/terminal_illness/images/hashed_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/terminal_illness/terminal_illness.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/context.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_terminal_illness.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEVELOPMENT_/JUPYTER_NOTEBOOKS/click.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEVELOPMENT_/JUPYTER_NOTEBOOKS/docopt.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEVELOPMENT_/JUPYTER_NOTEBOOKS/fire.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/terminal_illness/data/machine_definitions/debian_bash.definition" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/terminal_illness/data/machine_definitions/ubuntu_ksh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/terminal_illness/data/seclusions/__seclusion_registry__" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/terminal_illness/data/seclusions/default.definition" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/terminal_illness/data/shimmers/conda.definition" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/terminal_illness/data/shimmers/httptoolkit.definition" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/terminal_illness/data/shimmers/rbenv.definition" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/terminal_illness/data/shimmers/rvm.definition" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/terminal_illness/data/shimmers/ssh-ident.definition" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/terminal_illness/data/shimmers/symfony.definition" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEVELOPMENT_/CHECKLIST" beforeDir="false" afterPath="$PROJECT_DIR$/DEVELOPMENT_/CHECKLIST" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEVELOPMENT_/NOTES_AND_RESEARCH/bash_v5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DEVELOPMENT_/NOTES_AND_RESEARCH/bash_v5.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +27,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="package.json" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -46,6 +38,9 @@
   </component>
   <component name="JupyterTrust" id="468bd6cf-d256-4706-b12c-3ae50e51176c">
     <option name="files">
+      <option value="DEVELOPMENT_/JUPYTER_NOTEBOOKS/click.ipynb" />
+      <option value="DEVELOPMENT_/JUPYTER_NOTEBOOKS/docopt.ipynb" />
+      <option value="DEVELOPMENT_/JUPYTER_NOTEBOOKS/fire.ipynb" />
       <option value="JUPYTER_NOTEBOOKS/decorators.ipynb" />
     </option>
   </component>
@@ -66,6 +61,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -97,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578687376187</updated>
-      <workItem from="1578687394694" duration="18487000" />
+      <workItem from="1578687394694" duration="30492000" />
     </task>
     <servers />
   </component>
@@ -105,13 +101,53 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="315" y="611" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578794077328">
+    <state x="0" y="460" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578814086427">
       <screen x="0" y="20" width="1050" height="1660" />
     </state>
-    <state x="315" y="611" key="#com.intellij.fileTypes.FileTypeChooser/1050.400.1920.1080/0.20.1050.1660@0.20.1050.1660" timestamp="1578794077328" />
+    <state x="0" y="460" key="#com.intellij.execution.impl.EditConfigurationsDialog/1050.400.1920.1080/0.20.1050.1660@0.20.1050.1660" timestamp="1578814086427" />
+    <state x="315" y="611" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578806990409">
+      <screen x="0" y="20" width="1050" height="1660" />
+    </state>
+    <state x="315" y="611" key="#com.intellij.fileTypes.FileTypeChooser/1050.400.1920.1080/0.20.1050.1660@0.20.1050.1660" timestamp="1578806990409" />
+    <state width="1002" height="470" key="GridCell.Tab.0.bottom" timestamp="1578816456019">
+      <screen x="0" y="20" width="1050" height="1660" />
+    </state>
+    <state width="1002" height="470" key="GridCell.Tab.0.bottom/1050.400.1920.1080/0.20.1050.1660@0.20.1050.1660" timestamp="1578816456019" />
+    <state width="1002" height="470" key="GridCell.Tab.0.center" timestamp="1578816456019">
+      <screen x="0" y="20" width="1050" height="1660" />
+    </state>
+    <state width="1002" height="470" key="GridCell.Tab.0.center/1050.400.1920.1080/0.20.1050.1660@0.20.1050.1660" timestamp="1578816456019" />
+    <state width="1002" height="470" key="GridCell.Tab.0.left" timestamp="1578816456019">
+      <screen x="0" y="20" width="1050" height="1660" />
+    </state>
+    <state width="1002" height="470" key="GridCell.Tab.0.left/1050.400.1920.1080/0.20.1050.1660@0.20.1050.1660" timestamp="1578816456019" />
+    <state width="1002" height="470" key="GridCell.Tab.0.right" timestamp="1578816456019">
+      <screen x="0" y="20" width="1050" height="1660" />
+    </state>
+    <state width="1002" height="470" key="GridCell.Tab.0.right/1050.400.1920.1080/0.20.1050.1660@0.20.1050.1660" timestamp="1578816456019" />
+    <state width="1002" height="470" key="GridCell.Tab.1.bottom" timestamp="1578816456020">
+      <screen x="0" y="20" width="1050" height="1660" />
+    </state>
+    <state width="1002" height="470" key="GridCell.Tab.1.bottom/1050.400.1920.1080/0.20.1050.1660@0.20.1050.1660" timestamp="1578816456020" />
+    <state width="1002" height="470" key="GridCell.Tab.1.center" timestamp="1578816456020">
+      <screen x="0" y="20" width="1050" height="1660" />
+    </state>
+    <state width="1002" height="470" key="GridCell.Tab.1.center/1050.400.1920.1080/0.20.1050.1660@0.20.1050.1660" timestamp="1578816456020" />
+    <state width="1002" height="470" key="GridCell.Tab.1.left" timestamp="1578816456020">
+      <screen x="0" y="20" width="1050" height="1660" />
+    </state>
+    <state width="1002" height="470" key="GridCell.Tab.1.left/1050.400.1920.1080/0.20.1050.1660@0.20.1050.1660" timestamp="1578816456020" />
+    <state width="1002" height="470" key="GridCell.Tab.1.right" timestamp="1578816456020">
+      <screen x="0" y="20" width="1050" height="1660" />
+    </state>
+    <state width="1002" height="470" key="GridCell.Tab.1.right/1050.400.1920.1080/0.20.1050.1660@0.20.1050.1660" timestamp="1578816456020" />
     <state x="233" y="629" key="com.intellij.ide.util.TipDialog" timestamp="1578687439070">
       <screen x="0" y="20" width="1050" height="1660" />
     </state>
     <state x="233" y="629" key="com.intellij.ide.util.TipDialog/1050.400.1920.1080/0.20.1050.1660@0.20.1050.1660" timestamp="1578687439070" />
+    <state x="352" y="722" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578804818934">
+      <screen x="0" y="20" width="1050" height="1660" />
+    </state>
+    <state x="352" y="722" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1050.400.1920.1080/0.20.1050.1660@0.20.1050.1660" timestamp="1578804818934" />
   </component>
 </project>

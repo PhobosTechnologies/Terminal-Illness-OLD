@@ -1,4 +1,4 @@
-# Terminal Illness
+# Terminal Illness OLD
 ### One Shim to rule them all, One Script to find them, One CMD to bring them all, and in the Bash-shell bind them.
 
 ## Never got around to finishing this (or even starting it for that matter), but I think ASDF pretty much took care of everything anyway - so, less work for me. :)
